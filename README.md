@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyu
 Баг-репорты, оформленные в Google Таблицах и в Redmine.
 https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyuzHs/edit#gid=677746719
 
-Диаграмма и таблица по технике тестирования состояний и переходов, а также чек-лист, составленный на основании таблицы.
+Диаграмма и таблица по технике тестирования состояний и переходов, а также чек-лист, составленный на основании таблицы.      
 https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyuzHs/edit#gid=255226036
 
 Попарное тестирование (PICT).                                                        
@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyu
 Создание таблицы для MySQL и выполнение простых запросов.
 https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyuzHs/edit#gid=1345173940
 
-Тестирование API на основании ТЗ сайта, а также составление чек-листов на позитивные и негативные проверки.
+Тестирование API на основании ТЗ сайта, а также составление чек-листов на позитивные и негативные проверки.        
 https://docs.google.com/spreadsheets/d/1Wp7KJqXd7A5z1YGvtM0toqlMEWhmXQ-8-tCnjhyuzHs/edit#gid=1890448579
 
 Составление тест-плана по тестированию функциональности.
